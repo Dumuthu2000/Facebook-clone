@@ -1,0 +1,108 @@
+.itemsOfPost{
+    width: 90%;
+    margin-left: 40px;
+    margin-top: 30px;
+    -webkit-box-shadow: 5px 5px 15px 5px rgba(0,0,0,0.39); 
+    box-shadow: 5px 5px 15px 5px rgba(0,0,0,0.39);
+    border-radius: 10px;
+    background-color: #242526;
+    color: #A7AAAF;
+}
+.postOwner{
+    display: flex;
+    align-items: center;
+}
+.profileImageOfPostCreatedPerson{
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    margin-right: 5px;
+    margin-top: 10px;
+}
+.postCreatedPerson{
+    margin-top: 10px;
+}
+.postBox{
+    margin-left: 35px;
+    margin-top: 20px;
+}
+.postImageBoxOutline{
+    border: 1px solid grey;
+    width: 90%;
+    margin-left: 35px;
+    margin-top: 20px;
+    border-radius: 10px;
+}
+.postImage{
+    width: 100%;
+    height: 450px;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+}
+.postSharedPersonBox{
+    display: flex;
+    align-items: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.postSharedPersonImage{
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    margin-right: 5px;
+}
+.reviewSectionOutline{
+    margin-left: 35px;
+    margin-top: 20px;
+}
+.reactViewBox{
+    display: flex;
+    align-items: center;
+    list-style: none;
+}
+.reactionsIcons{
+    cursor: pointer;
+}
+.numberOfReacts{
+    margin-left: 5px;
+}
+.postReacterBox{
+    display: flex;
+    align-items: center;
+}
+.reactionSet{
+    padding: 0 5px;
+    border-radius: 5px;
+}
+.reactionSet:hover{
+    background-color: #3A3B3C;
+}
+.postReacterBox{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    list-style: none;
+}
+.reactName{
+    margin-left: 5px;
+}
+.commentSectionBox{
+    display: flex;
+    align-items: center;
+}
+.accountOwnerProfile{
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+.commentWriteInputForAccountOwner{
+    width: 90%;
+    height: 25px;
+    border-radius: 50px;
+    border: 1px solid grey;
+    margin-bottom: 10px;
+    background-color: #3A3B3C;
+    color: #fff;
+}

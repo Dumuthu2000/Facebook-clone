@@ -1,0 +1,36 @@
+.sponserBox{
+    border-radius: 10px;
+    width: 90%;
+    height: 240px;
+    margin-left: 10px;
+    /* -webkit-box-shadow: 5px 5px 15px 5px rgba(0,0,0,0.39); 
+    box-shadow: 5px 5px 15px 5px rgba(0,0,0,0.39); */
+    color: #fff;
+}
+.sponserBoxContent{
+    margin-left: 10px;
+}
+.sponsorBoxItems{
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+    padding: 5px 0 0 5px;
+    width: 90%;
+    border-radius: 10px;
+
+}
+.sponsorBoxItems:hover{
+    background-color: #3A3B3C;
+}
+.sponsorImage{
+    width: 150px;
+    height: 80px;
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
+.url{
+    color: #A7AAAF;
+}
+.sponsorItemField{
+    margin-left: 10px;
+}

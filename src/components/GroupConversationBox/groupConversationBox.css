@@ -1,0 +1,21 @@
+.groupTitle{
+    margin-left: 20px;
+    color: #fff;
+}
+.convercationList{
+    display: flex;
+    align-items: center;
+    list-style: none;
+    margin-bottom: 20px;
+}
+.convercationList:hover{
+    background-color: #3A3B3C;
+    width: 90%;
+    border-radius: 5px;
+}
+.convercationIcon{
+    margin-right: 10px;
+}
+h2{
+    color: #fff;
+}

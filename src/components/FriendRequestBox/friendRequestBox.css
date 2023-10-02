@@ -1,0 +1,56 @@
+.requestContent{
+    display: flex;
+    align-items: center;
+    list-style: none;
+    margin-left: 20px;
+    color: #fff;
+}
+.requestTitle{
+    margin-left: 20px;
+    color: #fff;
+}
+.requestedFriendProfileImage{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    margin-right: 10px;
+}
+.mutualFriends{
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+}
+.mutualFriendBox{
+    display: flex;
+    align-items: center;
+}
+.mutualTitle{
+    margin-left: 5px;
+}
+.friendName{
+    font-weight: bold;
+}
+.requestButton{
+    margin-top: 5px;
+}
+.confirmButton{
+    width: 80px;
+    height: 30px;
+    background-color: #2374E1;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    cursor: pointer;
+}
+.deleteButton{
+    margin-left: 10px;
+    margin-bottom: 10px;
+    width: 80px;
+    height: 30px;
+    background-color:#3A3B3C;
+    color: #A7AAAF;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}

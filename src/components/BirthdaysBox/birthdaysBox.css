@@ -1,0 +1,22 @@
+.birthdayBoxContent{
+    margin-left: 20px;
+    color: #fff;
+}
+.birthdayItemList{
+    display: flex;
+    align-items: center;
+    margin-left: 20px;
+}
+.birthdayItemList:hover{
+    background-color: #3A3B3C;
+    width: 90%;
+    border-radius: 5px;
+}
+.birthdayIcon{
+    margin-bottom: 10px;
+}
+.ownerofBirthdayName{
+    margin-left: 10px;
+    margin-bottom: 10px;
+    color: #fff;
+}

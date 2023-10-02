@@ -1,0 +1,26 @@
+.contactPersonImage{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    border: 3px solid blue;
+}
+.subContactBox{
+    margin-left: 20px;
+}
+.subContactList{
+    display: flex;
+    /* align-items: center; */
+    /* list-style: none; */
+    margin-bottom: 10px;
+}
+.subContactList:hover{
+    background-color: #3A3B3C;
+    width: 90%;
+    border-radius: 5px;
+}
+.contactPersonName{
+    margin-left: 10px;
+    margin-top: 10px;
+    font-weight: bold;
+    color: #fff;
+}

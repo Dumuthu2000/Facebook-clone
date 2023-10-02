@@ -1,0 +1,50 @@
+.pagesAndProfileBox{
+    /* -webkit-box-shadow: 5px 5px 15px 5px rgba(0,0,0,0.39); 
+    box-shadow: 5px 5px 15px 5px rgba(0,0,0,0.39); */
+    width: 90%;
+    margin-left: 10px;
+    border-radius: 10px;
+    color: #fff;
+}
+.pageAndProfileTitle{
+    margin-left: 10px;
+    
+}
+.pageAndProfileNameContent{
+    display: flex;
+    align-items: center;
+    margin-left: 10px;
+    cursor: pointer;
+    margin-bottom: 10px;
+}
+.pageAndProfileNameContent:hover{
+    background-color: #3A3B3C;
+    width: 90%;
+    border-radius: 5px;
+}
+.pageAndProfileNameImage{
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    margin-right: 10px;
+}
+.pageAndProfileName{
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+
+}
+.notificationContent{
+    display: flex;
+    align-items: center;
+    margin-left: 25px;
+    margin-bottom: 5px;
+    cursor: pointer;
+}
+.notificationContent:hover{
+    background-color: #3A3B3C;
+    width: 50%;
+    border-radius: 5px;
+}
+.notificationName{
+    margin-left: 10px;
+}

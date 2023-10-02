@@ -1,0 +1,21 @@
+.postPaneBox{
+    flex: 5;
+    height: calc(100vh - 50px);
+    overflow-y: scroll;
+    background-color: #18191A;
+}
+/* ::-webkit-scrollbar{
+    width: 5px;
+} */
+::-webkit-scrollbar-track{
+    background-color: rgb(217, 221, 225);
+    display: none;
+}
+::-webkit-scrollbar-thumb{
+    background-color: rgb(125, 128, 129);
+    display: none;
+}
+.captionText{
+    color: #fff;
+    margin-left: 10px;
+}
